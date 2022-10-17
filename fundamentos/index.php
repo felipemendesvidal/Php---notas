@@ -22,6 +22,7 @@
 //http://localhost:49197/fundamentos
 
 echo 'ola mundo ';
+print 'esse outro comando para mostrar coisas na tela'
 
 ?>
 </body>
